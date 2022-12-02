@@ -1,0 +1,65 @@
+#image1 img{
+    width: 500px;
+    height: 200px;
+   
+}
+#image2 img{
+    width: 500px;
+    height: 200px;
+}
+#image3 img{
+    width: 500px;
+    height: 200px;
+}
+
+#image4 img{
+    width: 500px;
+    height: 200px;
+}
+
+#image5 img{
+    width: 500px;
+    height: 200px;
+}
+#image6 img{
+    width: 500px;
+    height: 200px;
+}
+#image7 img{
+    width: 500px;
+    height: 200px;
+}
+#image8 img{
+    width: 500px;
+    height: 200px;
+}
+#image9 img{
+    width: 500px;
+    height: 200px;
+}
+#image10 img{
+    width: 500px;
+    height: 200px;
+}
+#image11 img{
+    width: 500px;
+    height: 200px;
+}
+#image12 img{
+    width: 500px;
+    height: 200px;
+}
+.imagename{
+    font-size: medium;
+    font-weight: bold;
+    color: royalblue;
+    text-align: center;
+}
+#gallery{
+    font-size: 40px;
+    font-weight: bold;
+    color: navy;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
